@@ -15,7 +15,7 @@ public class JavaPlayground
      */
     public static void main(String[] args)
     {
-        System.out.println("This is wrong."); 
+        System.out.println("This is fine."); 
     }
 
 }
